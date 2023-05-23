@@ -23,4 +23,4 @@
 
 `npm start` — запускает приложение в браузере
 
-[Ссылка на домен]()
+[Ссылка на домен](https://sergynya174.github.io/weater-react/)
