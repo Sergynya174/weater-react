@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weater-react/static/css/main.16c18786.css",
+    "main.js": "/weater-react/static/js/main.84a5aab2.js",
+    "static/js/787.5f7c633a.chunk.js": "/weater-react/static/js/787.5f7c633a.chunk.js",
+    "static/media/Rain.png": "/weater-react/static/media/Rain.251f90cf095f0cca50df.png",
+    "static/media/Smoke.png": "/weater-react/static/media/Smoke.7b5b6e4eb8e8756f3ac6.png",
+    "static/media/Snow.png": "/weater-react/static/media/Snow.505ea2b3f8ae14672d78.png",
+    "static/media/Haze.png": "/weater-react/static/media/Haze.eb0069f3ae915a244af2.png",
+    "static/media/search.png": "/weater-react/static/media/search.d8392b48f6c5a7f3c97a.png",
+    "static/media/Mist.png": "/weater-react/static/media/Mist.a111f4195c6ca3846995.png",
+    "static/media/Drizzle.png": "/weater-react/static/media/Drizzle.1c0430176071095b6ca1.png",
+    "static/media/Clouds.png": "/weater-react/static/media/Clouds.b9a187440c6c127890af.png",
+    "static/media/Clear.png": "/weater-react/static/media/Clear.3c891107df9c87318dde.png",
+    "static/media/temp.png": "/weater-react/static/media/temp.cb0c8d7248acd82fbf45.png",
+    "static/media/NotFound.png": "/weater-react/static/media/NotFound.db1b8a637314537d7871.png",
+    "index.html": "/weater-react/index.html",
+    "main.16c18786.css.map": "/weater-react/static/css/main.16c18786.css.map",
+    "main.84a5aab2.js.map": "/weater-react/static/js/main.84a5aab2.js.map",
+    "787.5f7c633a.chunk.js.map": "/weater-react/static/js/787.5f7c633a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c18786.css",
+    "static/js/main.84a5aab2.js"
+  ]
+}
